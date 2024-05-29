@@ -97,43 +97,43 @@ Ikiwa Timu B (Ugenini) inacheza dhidi ya Timu A (Nyumbani) na umebashiri 2 & NG,
 
 Kama unapenda kubashiri katika masoko ya 1 & GG, 2 & GG, na X & GG, kuna baadhi ya ligi zinazojulikana kwa ushindani mkali na matokeo yenye magoli mengi. Hapa chini ni ligi nzuri ambazo unaweza kuzingatia kwa aina hii ya ubashiri:
 
-- **Finland Kolmonen:** Ligi hii ya daraja la tatu nchini Finland inajulikana kwa kuwa na mechi zenye magoli mengi. Timu zinacheza kwa ari kubwa, na mara nyingi timu zote mbili hufunga katika mechi nyingi, hivyo kufanya (1 & GG) na (2 & GG) kuwa chaguzi nzuri.
+1. **Finland Kolmonen:** Ligi hii ya daraja la tatu nchini Finland inajulikana kwa kuwa na mechi zenye magoli mengi. Timu zinacheza kwa ari kubwa, na mara nyingi timu zote mbili hufunga katika mechi nyingi, hivyo kufanya (1 & GG) na (2 & GG) kuwa chaguzi nzuri.
 
-- **England Premier League 2:** Ligi hii inahusisha timu za vijana chini ya miaka 23 za klabu za Premier League. Mechi hizi mara nyingi ni za kusisimua na zina magoli mengi kutokana na wachezaji vijana wenye ari ya kujionyesha. Hii inafanya (1 & GG), (2 & GG), na (X & GG) kuwa chaguzi maarufu.
+2. **England Premier League 2:** Ligi hii inahusisha timu za vijana chini ya miaka 23 za klabu za Premier League. Mechi hizi mara nyingi ni za kusisimua na zina magoli mengi kutokana na wachezaji vijana wenye ari ya kujionyesha. Hii inafanya (1 & GG), (2 & GG), na (X & GG) kuwa chaguzi maarufu.
 
-- **England Development League 2:** Kama Premier League 2, Development League 2 pia inahusisha wachezaji vijana ambao wanajaribu kuonyesha uwezo wao. Mechi nyingi zina matokeo ya juu ya magoli, na hivyo (1 & GG) na (2 & GG) ni bashiri za kawaida.
+3. **England Development League 2:** Kama Premier League 2, Development League 2 pia inahusisha wachezaji vijana ambao wanajaribu kuonyesha uwezo wao. Mechi nyingi zina matokeo ya juu ya magoli, na hivyo (1 & GG) na (2 & GG) ni bashiri za kawaida.
 
-- **Germany Verbandsliga:** Hii ni ligi ya ngazi ya sita katika mfumo wa soka wa Ujerumani. Timu nyingi zinacheza kwa nguvu na hufunga magoli mengi, na kufanya bashiri za (1 & GG), (2 & GG), na (X & GG) kuwa na nafasi nzuri za kushinda.
+4. **Germany Verbandsliga:** Hii ni ligi ya ngazi ya sita katika mfumo wa soka wa Ujerumani. Timu nyingi zinacheza kwa nguvu na hufunga magoli mengi, na kufanya bashiri za (1 & GG), (2 & GG), na (X & GG) kuwa na nafasi nzuri za kushinda.
 
-- **Hong Kong 1st Division:** Ligi hii ni ya pili kwa ukubwa Hong Kong na inajulikana kwa mechi zenye magoli mengi. Timu nyingi zina safu kali za ushambuliaji, hivyo (1 & GG) na (2 & GG) ni chaguo maarufu.
+5. **Hong Kong 1st Division:** Ligi hii ni ya pili kwa ukubwa Hong Kong na inajulikana kwa mechi zenye magoli mengi. Timu nyingi zina safu kali za ushambuliaji, hivyo (1 & GG) na (2 & GG) ni chaguo maarufu.
 
-- **Scotland Highland League:** Ligi ya Highland nchini Scotland ni maarufu kwa ushindani mkali na magoli mengi. Timu nyingi hufunga na kufungwa magoli mengi, na kufanya (1 & GG), (2 & GG), na (X & GG) kuwa na nafasi nzuri.
+6. **Scotland Highland League:** Ligi ya Highland nchini Scotland ni maarufu kwa ushindani mkali na magoli mengi. Timu nyingi hufunga na kufungwa magoli mengi, na kufanya (1 & GG), (2 & GG), na (X & GG) kuwa na nafasi nzuri.
 
-- **Scotland League One:** Ligi ya tatu kwa ukubwa nchini Scotland pia ina ushindani mkubwa na mechi zenye magoli mengi. Bashiri za (1 & GG) na (2 & GG) ni maarufu hapa.
+7. **Scotland League One:** Ligi ya tatu kwa ukubwa nchini Scotland pia ina ushindani mkubwa na mechi zenye magoli mengi. Bashiri za (1 & GG) na (2 & GG) ni maarufu hapa.
 
-- **Holland Eredivisie:** Ligi kuu ya Uholanzi inajulikana kwa soka la kushambulia na magoli mengi. Timu nyingi hufunga magoli, hivyo (1 & GG), (2 & GG), na (X & GG) ni bashiri nzuri.
+8. **Holland Eredivisie:** Ligi kuu ya Uholanzi inajulikana kwa soka la kushambulia na magoli mengi. Timu nyingi hufunga magoli, hivyo (1 & GG), (2 & GG), na (X & GG) ni bashiri nzuri.
 
-- **Holland Eerste Divisie:** Daraja la pili la soka la Uholanzi pia lina sifa ya kuwa na mechi zenye magoli mengi. Hii inafanya (1 & GG) na (2 & GG) kuwa chaguo nzuri kwa wabetiji.
+9. **Holland Eerste Divisie:** Daraja la pili la soka la Uholanzi pia lina sifa ya kuwa na mechi zenye magoli mengi. Hii inafanya (1 & GG) na (2 & GG) kuwa chaguo nzuri kwa wabetiji.
 
-- **Germany Bundesliga I & II:** Bundesliga na Bundesliga II ni ligi maarufu sana kwa soka la kuvutia na magoli mengi. Timu zote mara nyingi hufunga, na kufanya (1 & GG), (2 & GG), na (X & GG) kuwa chaguo maarufu.
+10. **Germany Bundesliga I & II:** Bundesliga na Bundesliga II ni ligi maarufu sana kwa soka la kuvutia na magoli mengi. Timu zote mara nyingi hufunga, na kufanya (1 & GG), (2 & GG), na (X & GG) kuwa chaguo maarufu.
 
 ## Ligi Bora/Nzuri za Kubetia (1 & NG), (2 & NG) na (X & NG)
 
 Kwa wabetiji wanaopenda masoko ya 1 & NG, 2 & NG, na X & NG, ni vizuri kubetia ligi zenye magoli machache, ligi zifuatazo zina mechi nyingi zenye magoli machache:
 
-- **Greece Football League:** Ligi hii mara nyingi ina mechi zenye magoli machache. Timu nyingi zina safu nzuri za ulinzi, na kufanya (1 & NG), (2 & NG), na (X & NG) kuwa na nafasi nzuri za kushinda.
+1. **Greece Football League:** Ligi hii mara nyingi ina mechi zenye magoli machache. Timu nyingi zina safu nzuri za ulinzi, na kufanya (1 & NG), (2 & NG), na (X & NG) kuwa na nafasi nzuri za kushinda.
 
-- **South Africa Premier:** Ligi kuu ya Afrika Kusini pia inajulikana kwa mechi zenye magoli machache, haswa kutokana na mbinu za ulinzi zinazotumiwa na timu nyingi. Hii inafanya (1 & NG) na (2 & NG) kuwa chaguo maarufu.
+2. **South Africa Premier:** Ligi kuu ya Afrika Kusini pia inajulikana kwa mechi zenye magoli machache, haswa kutokana na mbinu za ulinzi zinazotumiwa na timu nyingi. Hii inafanya (1 & NG) na (2 & NG) kuwa chaguo maarufu.
 
-- **Spain Tercera:** Ligi ya daraja la nne nchini Hispania ina timu nyingi ambazo zinazingatia ulinzi, na hivyo mechi nyingi zina magoli machache. (1 & NG) na (X & NG) ni bashiri nzuri hapa.
+3. **Spain Tercera:** Ligi ya daraja la nne nchini Hispania ina timu nyingi ambazo zinazingatia ulinzi, na hivyo mechi nyingi zina magoli machache. (1 & NG) na (X & NG) ni bashiri nzuri hapa.
 
-- **Spain Segunda:** Daraja la pili nchini Hispania pia lina timu nyingi zinazolinda vizuri. Hii inafanya (1 & NG) na (2 & NG) kuwa na nafasi nzuri.
+4. **Spain Segunda:** Daraja la pili nchini Hispania pia lina timu nyingi zinazolinda vizuri. Hii inafanya (1 & NG) na (2 & NG) kuwa na nafasi nzuri.
 
-- **Italy Serie B & C:** Daraja la pili na la tatu nchini Italia zina sifa ya mechi zenye magoli machache. Timu nyingi zina safu kali za ulinzi, na kufanya (1 & NG), (2 & NG), na (X & NG) kuwa chaguo maarufu.
+5. **Italy Serie B & C:** Daraja la pili na la tatu nchini Italia zina sifa ya mechi zenye magoli machache. Timu nyingi zina safu kali za ulinzi, na kufanya (1 & NG), (2 & NG), na (X & NG) kuwa chaguo maarufu.
 
-- **Argentina Primera Division:** Ligi kuu ya Argentina mara nyingi ina mechi zenye magoli machache kutokana na mbinu za ulinzi. Bashiri za (1 & NG) na (2 & NG) ni maarufu hapa.
+6. **Argentina Primera Division:** Ligi kuu ya Argentina mara nyingi ina mechi zenye magoli machache kutokana na mbinu za ulinzi. Bashiri za (1 & NG) na (2 & NG) ni maarufu hapa.
 
-- **Argentina Nacional B:** Daraja la pili la Argentina lina mechi nyingi zenye magoli machache, na kufanya (1 & NG) na (X & NG) kuwa na nafasi nzuri za kushinda.
+7. **Argentina Nacional B:** Daraja la pili la Argentina lina mechi nyingi zenye magoli machache, na kufanya (1 & NG) na (X & NG) kuwa na nafasi nzuri za kushinda.
 
 ## Kampuni Bora za Kubetia 1X2 & GG/NG
 
