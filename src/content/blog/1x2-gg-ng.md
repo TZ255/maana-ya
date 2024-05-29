@@ -28,7 +28,8 @@ Ikiwa Timu A (Nyumbani) inacheza dhidi ya Timu B (Ugenini) na umebashiri 1 & GG,
 - Timu A inashinda 2-1
 - Timu A inashinda 3-2
 - Timu A inashinda 4-3
-  > Matokeo yoyote ambayo Timu A inashinda na Timu B inafunga goli yatakuwa ushindi kwako.
+
+> Matokeo yoyote ambayo Timu A inashinda na Timu B inafunga goli yatakuwa ushindi kwako.
 
 ## Maana ya X & GG
 
@@ -41,7 +42,8 @@ Ikiwa Timu A inacheza dhidi ya Timu B na umebashiri X & GG, matokeo yafuatayo ya
 - Mechi inamalizika 1-1
 - Mechi inamalizika 2-2
 - Mechi inamalizika 3-3
-  > Matokeo yoyote ya sare ambapo kila timu inafunga angalau goli moja yatakuwa ushindi kwako.
+
+> Matokeo yoyote ya sare ambapo kila timu inafunga angalau goli moja yatakuwa ushindi kwako.
 
 ## Maana ya 2 & GG
 
@@ -54,7 +56,8 @@ Ikiwa Timu B (Ugenini) inacheza dhidi ya Timu A (Nyumbani) na umebashiri 2 & GG,
 - Timu B inashinda 1-2
 - Timu B inashinda 2-3
 - Timu B inashinda 3-4
-  > Matokeo yoyote ambayo Timu B inashinda na Timu A inafunga goli yatakuwa ushindi kwako.
+
+> Matokeo yoyote ambayo Timu B inashinda na Timu A inafunga goli yatakuwa ushindi kwako.
 
 ## Maana ya 1 & NG
 
@@ -67,7 +70,8 @@ Ikiwa Timu A (Nyumbani) inacheza dhidi ya Timu B (Ugenini) na umebashiri 1 & NG,
 - Timu A inashinda 1-0
 - Timu A inashinda 2-0
 - Timu A inashinda 3-0
-  > Matokeo yoyote ambayo Timu A inashinda na Timu B haifungi yatakuwa ushindi kwako.
+
+> Matokeo yoyote ambayo Timu A inashinda na Timu B haifungi yatakuwa ushindi kwako.
 
 ## Maana ya X & NG
 
@@ -78,7 +82,8 @@ X & NG ni aina ya bashiri ambapo unachagua mechi kumalizika kwa sare na angalau 
 Ikiwa Timu A inacheza dhidi ya Timu B na umebashiri X & NG, matokeo yafuatayo yatasababisha ushindi wa dau lako:
 
 - Mechi inamalizika 0-0
-  > Matokeo yoyote ya sare ambapo angalau moja ya timu haifungi goli yatakuwa ushindi kwako.
+
+> Matokeo yoyote ya sare ambapo angalau moja ya timu haifungi goli yatakuwa ushindi kwako.
 
 ## Maana ya 2 & NG
 
@@ -91,7 +96,8 @@ Ikiwa Timu B (Ugenini) inacheza dhidi ya Timu A (Nyumbani) na umebashiri 2 & NG,
 - Timu B inashinda 0-1
 - Timu B inashinda 0-2
 - Timu B inashinda 0-3
-  > Matokeo yoyote ambayo Timu B inashinda na Timu A haifungi yatakuwa ushindi kwako.
+
+> Matokeo yoyote ambayo Timu B inashinda na Timu A haifungi yatakuwa ushindi kwako.
 
 ## Ligi Bora/Nzuri za Kubetia (1 & GG), (2 & GG) na (X & GG)
 

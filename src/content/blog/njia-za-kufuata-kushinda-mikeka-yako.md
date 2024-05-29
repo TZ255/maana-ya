@@ -29,7 +29,8 @@ Njia na mbinu nyingine ya kushinda betting/mikeka yako ni kufuatilia taarifa za 
 
 - [Mkeka wa Leo](https://mkekawaleo.com)
 - [Mikeka ya Uhakika](https://mikekayauhakika.com)
-  > Kumbuka! chambuzi hizi haziko 100% uhakika. Bali ni chambuzi ambazo zinaweza kukusaidia kwa zaidi ya 92% kuweza kushinda betting au mikeka yako mara kwa mara.
+
+> Kumbuka! chambuzi hizi haziko 100% uhakika. Bali ni chambuzi ambazo zinaweza kukusaidia kwa zaidi ya 92% kuweza kushinda betting au mikeka yako mara kwa mara.
 
 ## 3. Kuweka Malengo ya Fedha
 
