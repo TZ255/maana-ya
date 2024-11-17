@@ -39,43 +39,43 @@ Kuchagua bet ya Over 3.5 kunamaanisha unatabiri mechi yenye mabao mengi, angalau
 
 > Kumbuka! Bets za Over 3.5 mara nyingi zinaweza kufaa kwa mechi za kombe au mechi kati ya timu zenye historia ya kufunga mabao mengi. Tafuta mechi ambapo timu zote zina safu kali za ushambuliaji na historia ya kufunga mabao mengi.
 
-## 5. Maana ya Chini ya 4.5
+## 5. Maana ya Under 4.5
 
 Kuchagua bet ya Under 4.5 kunamaanisha unatabiri kuwa mabao manne au chini yake yatafungwa katika mechi. Chaguo hili hutoa odds za chini lakini linachukuliwa kuwa salama kuliko kubeti kwenye mechi zenye mabao mengi.
 
 > Kumbuka! Bets za Under 4.5 zinaweza kuwa nzuri kwa mechi zinazohusisha timu zenye ulinzi imara au wakati timu mbili zilizo sawa zinatarajiwa kufuta matokeo ya mmoja mwingine. Zingatia ligi zinazojulikana kwa ulinzi thabiti, kama vile Bundesliga ya Ujerumani au Serie A ya Italia.
 
-## 6. Maana ya Chini ya 3.5
+## 6. Maana ya Under 3.5
 
 Kuchagua bet ya Under 3.5 kunamaanisha unatarajia mechi yenye mabao matatu au chini yake. Chaguo hili hutoa odds wastani na ni muhimu kwa mechi ambapo timu zote zinaweka ulinzi au wakati hali ya hewa ni mbaya kwa mchezo wa kushambulia.
 
 > Kumbuka! Bets za Under 3.5 zinaweza kuwa na manufaa katika ligi zenye historia ya mechi zenye mabao machache, kama vile Championship ya England au Primeira Liga ya Ureno. Changanua timu zenye rekodi imara za ulinzi au mechi ambapo hali ya hewa inaweza kuathiri mchezo.
 
-## 7. Maana ya Chini ya 2.5
+## 7. Maana ya Under 2.5
 
 Kuchagua bet ya Under 2.5 kunamaanisha unatabiri mechi yenye mabao mawili au chini yake. Chaguo hili hutoa odds za juu na ni muhimu kwa mechi zenye timu zenye ulinzi imara au wakati hali ya hewa ni mbaya kwa mchezo wa kushambulia.
 
 > Kumbuka! Bets za Under 2.5 mara nyingi zinapatikana katika ligi zenye mikakati ya ulinzi, kama vile Serie A ya Italia au La Liga ya Uhispania. Tafuta mechi kati ya timu za katikati ya jedwali au derby za kienyeji ambapo mabao mara nyingi ni haba.
 
-## 8. Over 0.5 ya Nusu ya Kwanza
+## 8. Maana ya Over 0.5 1st Half
 
 Bet ya Over 0.5 ya Nusu ya Kwanza inaashiria unatabiri angalau bao moja litafungwa katika nusu ya kwanza ya mechi. Chaguo hili hutoa kurudi haraka na ni muhimu kwa mechi ambapo mabao ya mapema ni ya kawaida au wakati timu huanza michezo kwa mashambulizi.
 
 > Kumbuka! Bets za Over 0.5 ya Nusu ya Kwanza zinaweza kuwa na faida katika ligi zenye historia ya kuanza haraka, kama vile Premier League ya England au Eredivisie ya Uholanzi. Changanua timu zenye washambuliaji hodari au mechi zenye mitindo ya kucheza kwa kasi kwa odds bora.
 
-## 9. Over 1.5 ya Nusu ya Kwanza
+## 9. Maana ya Over 1.5 1st Half
 
 Kuchagua bet ya Over 1.5 ya Nusu ya Kwanza kunamaanisha unatarajia mabao mawili au zaidi yatafungwa katika nusu ya kwanza ya mechi. Chaguo hili hutoa odds za juu lakini linahitaji uchambuzi makini wa utendaji wa timu mapema msimu na uwezo wa kushambulia.
 
 > Kumbuka! Bets za Over 1.5 ya Nusu ya Kwanza ni muhimu kwa mechi kati ya timu zinazoongoza katika kufunga mabao au wakati mabao ya mapema yanatarajiwa kutokana na udhaifu wa ulinzi. Tafuta mechi zenye mashambulizi yenye nguvu au ambapo timu zina historia ya kufunga mabao mengi kipindi cha kwanza.
 
-## 10. Chini ya 1.5 ya Nusu ya Kwanza
+## 10. Maana ya Under 1.5 1st Half
 
 Kuchagua bet ya Chini ya 1.5 ya Nusu ya Kwanza kunamaanisha unatabiri bao moja au chini yake litafungwa katika nusu ya kwanza ya mechi. Chaguo hili hutoa odds wastani na ni muhimu kwa mechi ambapo timu zinaanza kwa tahadhari au wakati hali ya hewa inafaa kwa ulinzi.
 
 > Kumbuka! Bets za Chini ya 1.5 ya Nusu ya Kwanza zinaweza kuwa na manufaa katika mechi ambapo timu zinaanza kwa utulivu wa ulinzi au wakati zinakutana na upinzani mkali. Zingatia ligi zinazojulikana kwa nusu za kwanza zenye ushindani, kama vile Bundesliga ya Ujerumani au Serie A ya Italia.
 
-## 11. Chini ya 2.5 ya Nusu ya Kwanza
+## 11. Maana ya Under 2.5 1st Half
 
 Kuchagua bet ya Chini ya 2.5 ya Nusu ya Kwanza kunamaanisha unatarajia nusu ya kwanza yenye mabao mawili au chini yake. Chaguo hili hutoa odds za juu na ni muhimu kwa mechi ambapo timu kawaida huchukua muda kuanza mchezo au wakati mikakati ya ulinzi inashinda mapema.
 
