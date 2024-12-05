@@ -1,12 +1,11 @@
 ---
 author: Blackberry 255
 pubDatetime: 2024-10-10T12:15:00+03:00
-modDatetime: 2024-10-10T12:15:00+03:00
+modDatetime: 2024-12-05T06:15:00+03:00
 title: Maana ya Bet ya 1st 10 Minutes 1X2 na Jinsi ya Kubashiri
 slug: 1st-10-minutes-1x2
 featured: false
 draft: false
-canonicalURL: "https://maana-ya.com/1st-10-minutes-1x2"
 tags: [1x2, 1st10minutes, windrawwin, 10minutes]
 description: Jifunze maana ya bet ya "1st 10 Minutes 1X2", chaguzi za 1, X, 2, na jinsi ya kubashiri soko hili.
 ---

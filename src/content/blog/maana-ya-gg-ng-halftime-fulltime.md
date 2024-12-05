@@ -1,7 +1,7 @@
 ---
 author: Blackberry 255
 pubDatetime: 2024-02-11T15:22:15+03:00
-modDatetime: 2024-02-18T09:12:47+03:00
+modDatetime: 2024-12-05T05:12:47+03:00
 title: Maana ya Halftime/Fulltime, GG/NG na Double Chance 1X, X2, 12
 slug: maana-ya-gg-ng-halftime-fulltime
 featured: false
@@ -47,9 +47,8 @@ Double Chance 12 inaruhusu kubashiri kwamba moja kati ya timu mbili itashinda me
 
 Kwa kuhitimisha. Kumbuka kutumia kampuni yenye masoko mengi, ofa nyingi, uwezo wa kuedit bet zako, cashout na JackPot kubwa. Kampuni hizo kwa Tanzania ni:
 
-- [**BetWay Tanzania**](http://bet-link.top/betway/register)
-- [**Gal Sport Betting**](http://bet-link.top/gsb/register)
-- [**888bet Tanzania**](http://bet-link.top/88bet/register)
-- [**Parimatch Tanzania**](http://bet-link.top/pmatch/register)
+- **<span class="text-success text-decoration-underline" onclick="OpenAff('leonbet')">LeonBet Tanzania</span>**
+- **<span class="text-success text-decoration-underline" onclick="OpenAff('gsb')">Gal Sport Betting Tanzania</span>**
+- **<span class="text-success text-decoration-underline" onclick="OpenAff('betway')">BetWay Tanzania</span>**
 
 Ahsante! 🙏
