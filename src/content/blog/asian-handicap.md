@@ -14,6 +14,8 @@ Katika ulimwengu wa kubashiri mpira wa miguu, **Asian Handicap** ni mojawapo ya 
 
 ## Table of contents
 
+---
+
 ## Asian Handicap 0
 
 ### Maana ya Asian Handicap 0
@@ -42,6 +44,8 @@ Ligi nyingi za ulaya ni bora kubetia soko hili, mfano wa ligi hizi ni:
 - **Serie A ya Italia**
 - **Bundesliga ya Ujerumani**
 
+---
+
 ## Asian Handicap 0.25 na -0.25
 
 ### Maana ya Asian Handicap 0.25
@@ -69,6 +73,8 @@ Pia chaguo hili ni zuri kwa ligi nyingi za ulaya na ligi hizi mbili mara nyingi 
 - **La Liga ya Uhispania**
 - **Championship ya England**
 
+---
+
 ## Asian Handicap 0.5 na -0.5
 
 ### Maana ya Asian Handicap 0.5
@@ -93,6 +99,8 @@ Ikiwa umeweka dau la Asian Handicap -0.5 kwa Arsenal na matokeo ni:
 - **Eredivisie ya Uholanzi**
 - **Serie B ya Italia**
 
+---
+
 ## Asian Handicap 0.75 na -0.75
 
 ### Maana ya Asian Handicap 0.75
@@ -116,6 +124,8 @@ Kwa Arsenal (-0.75):
 
 - **Liga MX ya Mexico**
 - **Ligue 1 ya Ufaransa**
+
+---
 
 ## Asian Handicap 1 na -1
 
@@ -142,6 +152,8 @@ Kwa Arsenal (-1):
 - **Champions League**
 - **Copa Libertadores**
 
+---
+
 ## Asian Handicap 1.25 na -1.25
 
 ### Maana ya Asian Handicap 1.25
@@ -167,6 +179,8 @@ Kwa Arsenal (-1.25) vs Aston Villa:
 - **Brazil Serie A**
 - **K-League ya Korea Kusini**
 
+---
+
 ## Asian Handicap 1.5 na -1.5
 
 ### Maana ya Asian Handicap 1.5
@@ -190,6 +204,8 @@ Kwa Arsenal (-1.5):
 
 - **Serie A ya Italia**
 - **MLS ya Marekani**
+
+---
 
 ## Asian Handicap 1.75 na -1.75
 
@@ -217,6 +233,8 @@ Kwa Arsenal (-1.75):
 - **Primeira Liga ya Ureno**
 - **Eredivisie ya Uholanzi**
 - **Bundesliga ya Ujerumani**
+
+---
 
 ## Asian Handicap 2 na -2
 
@@ -274,6 +292,8 @@ Kwa Arsenal (-2.25) vs Aston Villa:
 - **National League ya New Zealand**
 - **Soccer League ya Canada**
 
+---
+
 ## Asian Handicap 2.5 na -2.5
 
 ### Maana ya Asian Handicap 2.5
@@ -299,6 +319,8 @@ Kwa Arsenal (-2.5) vs Aston Villa:
 - **Champions League**
 - **FA Cup ya Uingereza**
 - **Kakkonen ya Finland**
+
+---
 
 ## Asian Handicap 2.75 na -2.75
 
@@ -328,6 +350,8 @@ Kwa Arsenal (-2.75) vs Aston Villa:
 - **Pro League ya Falme za Kiarabu (UAE)**
 - **Premier League ya Hong Kong**
 
+---
+
 ## Asian Handicap 3 na -3
 
 ### Maana ya Asian Handicap 3
@@ -356,11 +380,15 @@ Kwa Arsenal (-3) vs Aston Villa:
 - **Esiliiga ya Estonia**
 - **Challenge League ya Switzerland**
 
+---
+
 ## Kampuni Bora za Kubetia Machaguo ya Asian Handicap
 
 - **<span class="text-success text-decoration-underline" onclick="OpenAff('leonbet')">LeonBet Tanzania</span>**
 - **<span class="text-success text-decoration-underline" onclick="OpenAff('gsb')">Gal Sport Betting Tanzania</span>**
 - **<span class="text-success text-decoration-underline" onclick="OpenAff('betway')">BetWay Tanzania</span>**
+
+---
 
 ## Hitimisho
 

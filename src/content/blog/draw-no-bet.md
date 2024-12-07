@@ -14,6 +14,8 @@ Katika kubashiri mpira wa miguu, kuna aina mbalimbali za bets ambazo zinaweza ku
 
 ## Table of contents
 
+---
+
 ## Maana ya Draw No Bet (DNB) Fulltime
 
 Draw No Bet (DNB) ni aina ya dau ambapo unachagua timu ya kushinda mechi, na ikiwa mechi itamalizika sare, dau lako litarudishwa. Hii inapunguza uwezekano wa kupoteza bashiri yako ikilinganishwa na kubashiri ushindi wa moja kwa moja, kwani sare haipotezi dau.
@@ -28,6 +30,8 @@ Ikiwa umeweka dau la DNB kwa Timu A dhidi ya Timu B, na mechi ikaisha kwa matoke
 
 > Tip! **DNB** inaweza kuwa chaguo bora katika mechi ambazo unadhani timu moja ina uwezekano mkubwa wa kushinda lakini pia ina hatari ya mechi kuishia sare/droo.
 
+---
+
 ## Maana ya Draw No Bet (DNB) Halftime
 
 Draw No Bet (DNB) kwa Kipindi cha Kwanza ni aina ya bashiri ambapo unachagua timu itakayoongoza kipindi cha kwanza, na ikiwa kipindi cha kwanza kitamalizika sare/droo, dau lako litarudishwa. Hii inatoa usalama zaidi kwa wabetiji katika nusu ya kwanza ya mechi (First Half).
@@ -41,6 +45,8 @@ Ikiwa umeweka dau la DNB kwa Kipindi cha Kwanza kwa Timu A dhidi ya Timu B, na k
 - **Timu B ikaongoza**: Dau lako limepotea.
 
 > Tip! DNB kwa Kipindi cha Kwanza inaweza kuwa chaguo bora katika mechi ambapo unadhani timu fulani itaonyesha nguvu mwanzoni lakini huenda ikakabiliana na upinzani mkali baadaye na kipindi cha kwanza kumalizika kwa sare/droo.
+
+---
 
 ## Ligi Bora za Kubetia Draw No Bet
 
@@ -59,6 +65,8 @@ Ligi bora za kubetia Draw No Bet ni zile ambazo mara nyingi zina ushindani mkubw
 
 Ligi hizi zina timu zenye ushindani zinazoweza kuleta matokeo yasiyotabirika ya ushindi lakini vile vile zina uwezekano mkubwa wa kutoa draw, na hivyo kufanya DNB kuwa chaguo nzuri.
 
+---
+
 ## Kampuni Bora za Kubetia Draw No Bet
 
 Kampuni zinazotoa fursa nzuri za kubetia Draw No Bet kwa Tanzania ni:
@@ -68,6 +76,8 @@ Kampuni zinazotoa fursa nzuri za kubetia Draw No Bet kwa Tanzania ni:
 - **<span class="text-success text-decoration-underline" onclick="OpenAff('betway')">BetWay Tanzania</span>**
 
 Kampuni hizi zina sifa ya kutoa masoko mengi ya michezo, ofa nzuri, na uwezo wa kuedit bets zako na cashout.
+
+---
 
 ## Hitimisho
 

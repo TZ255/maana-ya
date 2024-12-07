@@ -14,6 +14,8 @@ Katika ulimwengu wa kubashiri mpira wa miguu, masoko ya handicap yamekuwa mojawa
 
 ## Table of Contents
 
+---
+
 ## Handicap 1:0 na Handicap 0:1
 
 ### Maana ya Handicap 1:0 na Handicap 0:1
@@ -34,6 +36,8 @@ Katika aina hii ya beti, timu moja huanza na faida ya bao moja, na matokeo halis
 - **English Premier League**: Ligi yenye ushindani mkubwa kati ya timu za viwango tofauti.
 - **La Liga ya Uhispania**: Mechi za timu kubwa kama Barcelona na Real Madrid dhidi ya timu ndogo zinafaa kwa Handicap ambapo timu ndogo zitaongezewa goli moja na timu kubwa kushinda kwa zaidi ya bao moja
 - **Bundesliga ya Ujerumani**: Hii ligi inajulikana kwa mabao mengi hivyo timu kubwa zina uwezekano mkubwa wa kushinda kwa zaidi ya bao moja.
+
+---
 
 ## Handicap 2:0 na Handicap 0:2
 
@@ -56,6 +60,8 @@ Soko hili linalenga mechi ambapo kuna utofauti mkubwa wa uwezo baina ya timu mbi
 - **Ligue 1 ya Ufaransa**: Inafaa kwa timu kubwa kama PSG dhidi ya wapinzani dhaifu ambapo timu kubwa itashinda kwa zaidi ya mabao mawili.
 - **Eredivisie ya Uholanzi**: Inafaa kwa timu kubwa kama Ajax na PSV dhidi ya wapinzani dhaifu kama Sparta Rotterdam, Almere City na RKC Waalwijk ambapo timu kubwa itashinda kwa zaidi ya mabao mawili.
 
+---
+
 ## Handicap 3:0 na Handicap 0:3
 
 ### Maana ya Handicap 3:0 na Handicap 0:3
@@ -77,11 +83,15 @@ Beti hii mara nyingi hutumika katika mechi za kombe ambapo timu kubwa zinakutana
 - **Champions League**: Mechi za makundi hutoa nafasi nyingi kwa Handicap.
 - **Copa del Rey**: Mechi nyingi hukutanisha timu kubwa na ndogo ambapo kwa mabao matatu ya ziada timu ndogo huweza kuibuka mshindi
 
+---
+
 ## Kampuni Bora za Kubetia Machaguo ya Handicap
 
 - **<span class="text-success text-decoration-underline" onclick="OpenAff('leonbet')">LeonBet Tanzania</span>**
 - **<span class="text-success text-decoration-underline" onclick="OpenAff('gsb')">Gal Sport Betting Tanzania</span>**
 - **<span class="text-success text-decoration-underline" onclick="OpenAff('betway')">BetWay Tanzania</span>**
+
+---
 
 ## Hitimisho
 

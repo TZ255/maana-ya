@@ -16,6 +16,8 @@ Fuatana nami sasa!
 
 ## Table of contents
 
+---
+
 ## Home Team To Score 2 or More Goals in a Row
 
 ### Maana ya Home Team To Score 2 or More Goals in a Row
@@ -42,6 +44,8 @@ Mechi kati ya Liverpool (nyumbani) na Southampton (ugenini), Ukiweka:
 - **Premier League ya England**
 - **La Liga ya Uhispania**
 
+---
+
 ## Home Team To Score 3 or More Goals in a Row
 
 ### Maana ya Home Team To Score 3 or More Goals in a Row
@@ -65,6 +69,8 @@ Katika mechi ya Arsenal (nyumbani) dhidi ya Brighton (ugenini), ukibashiri:
 - **Sweden Dision 1 - Norra**
 - **MLS ya Marekani**
 - **Ligue 1 ya Ufaransa**
+
+---
 
 ## Home Team To Score 4 or More Goals in a Row
 
@@ -92,6 +98,8 @@ Katika mechi ya Barcelona (nyumbani) dhidi ya Girona:
 - **England Premier League 2**
 - **Germany Verbandsliga**
 
+---
+
 ## Away Team To Score 2 or More Goals in a Row
 
 ### Maana ya Away Team To Score 2 or More Goals in a Row
@@ -114,6 +122,8 @@ Katika mechi ya Las Palmas (nyumbani) dhidi ya Real Madrid:
 
 - **Eredivisie ya Uholanzi**
 - **Primeira Liga ya Ureno**
+
+---
 
 ## Away Team To Score 3 or More Goals in a Row
 
@@ -140,6 +150,8 @@ Katika mechi ya Monaco (nyumbani) dhidi ya PSG (ugenini):
 - **Hong Kong 1st Division**
 - **Austria 2. Liga**
 
+---
+
 ## Away Team To Score 4 or More Goals in a Row
 
 ### Maana ya Away Team To Score 4 or More Goals in a Row
@@ -165,11 +177,15 @@ Katika mechi ya Wolves (nyumbani) dhidi ya Manchester City (ugenini):
 - **Norway Division 1**
 - **Holland Eredivisie**
 
+---
+
 ## Kampuni Bora za Kubetia Machaguo ya Goals in a Row
 
 - **<span class="text-success text-decoration-underline" onclick="OpenAff('leonbet')">LeonBet Tanzania</span>**
 - **<span class="text-success text-decoration-underline" onclick="OpenAff('gsb')">Gal Sport Betting Tanzania</span>**
 - **<span class="text-success text-decoration-underline" onclick="OpenAff('betway')">BetWay Tanzania</span>**
+
+---
 
 ## Hitimisho
 

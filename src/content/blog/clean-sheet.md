@@ -15,6 +15,8 @@ Katika ulimwengu wa kubashiri mpira wa miguu, **Clean Sheet** ni mojawapo ya mas
 
 ## Table of contents
 
+---
+
 ## Home Team Clean Sheet
 
 ### Maana ya Home Team Clean Sheet
@@ -41,6 +43,8 @@ Mechi kati ya Timu A (nyumbani) na Timu B (ugenini):
 - **Premier League ya England**
 - **Bundesliga ya Ujerumani**
 
+---
+
 ## Away Team Clean Sheet
 
 ### Maana ya Away Team Clean Sheet
@@ -65,6 +69,8 @@ Mechi kati ya Timu C (nyumbani) na Timu D (ugenini):
 - **Primeira Liga ya Ureno**
 - **Ligue 1 ya Ufaransa**
 
+---
+
 ## 1st Half - Home Team Clean Sheet
 
 ### Maana ya 1st Half - Home Team Clean Sheet
@@ -87,6 +93,8 @@ Katika mechi ya Timu E (nyumbani) dhidi ya Timu F (ugenini):
 
 - **Eredivisie ya Uholanzi**
 - **Championship ya England**
+
+---
 
 ## 1st Half - Away Team Clean Sheet
 
@@ -111,6 +119,8 @@ Katika mechi ya Timu G (nyumbani) dhidi ya Timu H (ugenini):
 - **Scottish Premiership**
 - **Norwegian Eliteserien**
 
+---
+
 ## Kampuni Bora za Kubetia Draw No Bet
 
 Hizi hapa ni miongoni mwa kampuni bora za kubashiri Tanzania zinazotoa odds bomba kwa machaguo ya Clean Sheet
@@ -118,6 +128,8 @@ Hizi hapa ni miongoni mwa kampuni bora za kubashiri Tanzania zinazotoa odds bomb
 - **<span class="text-success text-decoration-underline" onclick="OpenAff('leonbet')">LeonBet Tanzania</span>**
 - **<span class="text-success text-decoration-underline" onclick="OpenAff('gsb')">Gal Sport Betting Tanzania</span>**
 - **<span class="text-success text-decoration-underline" onclick="OpenAff('betway')">BetWay Tanzania</span>**
+
+---
 
 ## Hitimisho
 
