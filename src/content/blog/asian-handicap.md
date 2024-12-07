@@ -1,7 +1,7 @@
 ---
 author: Blackberry 255
 pubDatetime: 2024-12-04T15:00:00+03:00
-modDatetime: 2024-12-07T15:00:00+03:00
+modDatetime: 2024-12-07T05:00:00+03:00
 title: Maana ya Asian Handicap (0, 0.25, 0.5, 0.75, 1, 1.25, 1.5, 1.75) Kwenye Betting
 slug: asian-handicap-betting
 featured: true
