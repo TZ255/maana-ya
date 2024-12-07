@@ -46,36 +46,14 @@
 </div>
 
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    // Reference the modal element and initialize the modal instance
-    const modalElement = new bootstrap.Modal(
-      document.getElementById("exampleModal")
-    );
-    const modalDomElement = document.getElementById("exampleModal");
-    let modalInterval;
+  // Function to show the modal after 30 seconds
+  function showDelayedModal() {
+    var myModal = new bootstrap.Modal(document.getElementById("exampleModal"));
+    myModal.show();
+  }
 
-    // Function to check and show the modal if it's not visible
-    function showModalIfNotVisible() {
-      const isModalVisible = modalDomElement.classList.contains("show");
-      if (!isModalVisible) {
-        modalElement.show();
-      }
-    }
-
-    // Function to start the interval
-    function startModalInterval() {
-      modalInterval = setInterval(showModalIfNotVisible, 15000);
-    }
-
-    // Event listener for when the modal is hidden
-    modalDomElement.addEventListener("hidden.bs.modal", function () {
-      clearInterval(modalInterval); // Clear the interval when the modal is closed
-      startModalInterval(); // Restart the interval
-    });
-
-    // Start the interval on page load
-    startModalInterval();
-  });
+  // Set a timeout to call the function after 20 seconds
+  setTimeout(showDelayedModal, 10000);
 
   // Add event listener to the button for opening an external link
   document.getElementById("betBtn").addEventListener("click", function () {
