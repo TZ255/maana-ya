@@ -4,7 +4,7 @@ pubDatetime: 2024-05-25T15:12:47+03:00
 modDatetime: 2024-12-05T05:12:47+03:00
 title: Maana ya Draw no Bet (DNB)
 slug: draw-no-bet
-featured: false
+featured: true
 draft: false
 tags: [DNB, draw, win]
 description: Jifunze aina za masoko ya Draw No Bet. Nini Maana ya Draw No Bet Kwenye Betting

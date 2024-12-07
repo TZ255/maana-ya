@@ -1,7 +1,7 @@
 ---
 author: Blackberry 255
 pubDatetime: 2024-12-04T09:00:00+03:00
-modDatetime: 2024-12-04T09:00:00+03:00
+modDatetime: 2024-12-07T09:00:00+03:00
 title: Maana ya Handicap 1:0, Handicap 2:0, Handicap 3:0 Kwenye Betting
 slug: handicap-betting
 featured: true
