@@ -14,7 +14,7 @@ Kubashiri mpira wa miguu hutoa fursa nyingi za kipekee, na mojawapo ni beti za *
 
 Fuatana nami sasa!
 
----
+## Table of contents
 
 ## Home Team To Score 2 or More Goals in a Row
 

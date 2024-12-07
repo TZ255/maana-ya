@@ -13,6 +13,8 @@ canonicalURL: "https://maana-ya.com/clean-sheet-betting"
 
 Katika ulimwengu wa kubashiri mpira wa miguu, **Clean Sheet** ni mojawapo ya masoko ya kubet maarufu, hususani kwa wale wanaozingatia uwezo wa timu katika ulinzi. Clean Sheet ni chaguo ambalo timu haitaruhusu bao lolote kutoka kwa timu pinzani. Katika makala hii, tutachambua aina mbalimbali za Clean Sheet, jinsi zinavyofanya kazi, mifano halisi ya mechi, na ligi bora za kubetia chaguzi hizi.
 
+## Table of contents
+
 ## Home Team Clean Sheet
 
 ### Maana ya Home Team Clean Sheet

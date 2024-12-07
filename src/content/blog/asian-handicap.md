@@ -12,6 +12,8 @@ description: Maana ya Asian Handicap kwenye betting. Fahamu maana ya Asian Handi
 
 Katika ulimwengu wa kubashiri mpira wa miguu, **Asian Handicap** ni mojawapo ya masoko maarufu zaidi kwa wabetiji wa kiwango cha kati hadi cha juu. Beti za Asian Handicap hutoa njia ya kusawazisha timu zinazoshindana kwa kupunguza au kuongeza mabao ya kufikirika kabla ya mechi kuanza. Katika makala hii, tutachambua aina mbalimbali za Asian Handicap, jinsi zinavyofanya kazi, mifano ya mechi halisi, na ligi bora za kubetia chaguzi hizi.
 
+## Table of contents
+
 ## Asian Handicap 0
 
 ### Maana ya Asian Handicap 0
