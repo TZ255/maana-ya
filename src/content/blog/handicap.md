@@ -4,7 +4,7 @@ pubDatetime: 2024-12-04T09:00:00+03:00
 modDatetime: 2024-12-07T09:00:00+03:00
 title: Maana ya Handicap 1:0, Handicap 2:0, Handicap 3:0 Kwenye Betting
 slug: handicap-betting
-featured: true
+featured: false
 draft: false
 tags: [handicap, asianhandicap]
 description: Jifunze kwa undani kuhusu masoko ya Handicap 1:0, 0:1, 2:0, 0:2, 3:0 na 0:3 katika kubashiri mpira wa miguu.

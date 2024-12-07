@@ -4,7 +4,7 @@ pubDatetime: 2024-05-24T15:12:47+03:00
 modDatetime: 2024-12-05T05:12:47+03:00
 title: Maana ya Home Win Either Half (HWEH)
 slug: home-win-either-half
-featured: true
+featured: false
 draft: false
 tags: [HWEH, halftime, WinEitherHalf]
 description: Jifunze aina za masoko ya Home Win Either Half. Nini Maana ya HWEH Kwenye Betting
