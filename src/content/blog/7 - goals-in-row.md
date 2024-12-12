@@ -40,9 +40,9 @@ Mechi kati ya Liverpool (nyumbani) na Southampton (ugenini), Ukiweka:
 
 ### Ligi Bora za Kubetia
 
-- **Bundesliga ya Ujerumani**
-- **Premier League ya England**
-- **La Liga ya Uhispania**
+- Bundesliga ya Ujerumani
+- Premier League ya England
+- La Liga ya Uhispania
 
 ---
 
@@ -66,9 +66,9 @@ Katika mechi ya Arsenal (nyumbani) dhidi ya Brighton (ugenini), ukibashiri:
 
 ### Ligi Bora za Kubetia
 
-- **Sweden Dision 1 - Norra**
-- **MLS ya Marekani**
-- **Ligue 1 ya Ufaransa**
+- Sweden Dision 1 - Norra
+- MLS ya Marekani
+- Ligue 1 ya Ufaransa
 
 ---
 
@@ -92,11 +92,11 @@ Katika mechi ya Barcelona (nyumbani) dhidi ya Girona:
 
 ### Ligi Bora za Kubetia
 
-- **Wales Championship North**
-- **Finland Kolmonen**
-- **England Development League 2**
-- **England Premier League 2**
-- **Germany Verbandsliga**
+- Wales Championship North
+- Finland Kolmonen
+- England Development League 2
+- England Premier League 2
+- Germany Verbandsliga
 
 ---
 
@@ -120,8 +120,8 @@ Katika mechi ya Las Palmas (nyumbani) dhidi ya Real Madrid:
 
 ### Ligi Bora za Kubetia
 
-- **Eredivisie ya Uholanzi**
-- **Primeira Liga ya Ureno**
+- Eredivisie ya Uholanzi
+- Primeira Liga ya Ureno
 
 ---
 
@@ -145,10 +145,10 @@ Katika mechi ya Monaco (nyumbani) dhidi ya PSG (ugenini):
 
 ### Ligi Bora za Kubetia
 
-- **Scottish Premiership**
-- **Norwegian Eliteserien**
-- **Hong Kong 1st Division**
-- **Austria 2. Liga**
+- Scottish Premiership
+- Norwegian Eliteserien
+- Hong Kong 1st Division
+- Austria 2. Liga
 
 ---
 
@@ -172,10 +172,10 @@ Katika mechi ya Wolves (nyumbani) dhidi ya Manchester City (ugenini):
 
 ### Ligi Bora za Kubetia
 
-- **Holland Eerste Divisie**
-- **Germany Bundesliga II**
-- **Norway Division 1**
-- **Holland Eredivisie**
+- Holland Eerste Divisie
+- Germany Bundesliga II
+- Norway Division 1
+- Holland Eredivisie
 
 ---
 
