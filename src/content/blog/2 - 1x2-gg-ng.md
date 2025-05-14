@@ -8,7 +8,7 @@ featured: false
 draft: false
 tags: [1x2, ggng]
 description: Jifunze aina za masoko ya 1X2 & GG/NG. Nini Maana ya Match Winner and Both Teams to Score Kwenye Betting
-canonicalURL: "https://maana-ya.com/1x2-gg-ng"
+canonicalURL: "https://maana-ya.com/posts/1x2-gg-ng/"
 ---
 
 Katika ulimwengu wa kubashiri michezo, hasa mpira wa miguu, masoko maarufu ni 1X2 na GG/NG. 1X2 inahusu chaguzi tatu za matokeo ya mechi: Timu ya Nyumbani kushinda (1), Sare (X), au Timu ya Ugenini kushinda (2). Kwa upande mwingine, GG/NG inamaanisha "Both Teams to Score" ambapo GG (Goli Goli) inamaanisha timu zote mbili zitafunga goli na NG (No Goal) inamaanisha angalau timu moja haitafunga.

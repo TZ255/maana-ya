@@ -1,14 +1,14 @@
 ---
 author: Blackberry 255
 pubDatetime: 2024-02-11T15:22:15+03:00
-modDatetime: 2024-12-05T05:12:47+03:00
+modDatetime: 2025-05-05T14:15:00+03:00
 title: Maana ya Halftime/Fulltime, GG/NG na Double Chance 1X, X2, 12
 slug: maana-ya-gg-ng-halftime-fulltime
 featured: false
 draft: false
 tags: [HTFT, GGNG, DC, halftime]
 description: Jifunze aina za masoko ya GG/NG. Maana ya Halftime/Fulltime, Double Chance 1X, X2, 12
-canonicalURL: "https://maana-ya.com/maana-ya-gg-ng-halftime-fulltime"
+canonicalURL: "https://maana-ya.com/posts/maana-ya-gg-ng-halftime-fulltime/"
 ---
 
 Katika kubashiri mpira wa miguu, kuna aina mbalimbali za bets ambazo zinaweza kutumika kuweka dau na kufurahia michezo. Tunachunguza chaguzi kama GG/NG, Halftime/Fulltime, Double Chance 1X, Double Chance X2, na Double Chance 12.

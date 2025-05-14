@@ -8,6 +8,7 @@ featured: true
 draft: false
 tags: [DNB, draw, win]
 description: Jifunze aina za masoko ya Draw No Bet. Nini Maana ya Draw No Bet Kwenye Betting
+canonicalURL: "https://maana-ya.com/posts/draw-no-bet/"
 ---
 
 Katika kubashiri mpira wa miguu, kuna aina mbalimbali za bets ambazo zinaweza kutumika kuweka dau na kufurahia ushindi wako. Hapa tunachambua na kukufahamisha chaguzi ya Draw No Bet (DNB) kwa kipindi cha kwanza (Halftime) na mwisho wa mechi (Fulltime), pamoja na ligi na kampuni bora/nzuri za kubetia chaguo hili.

@@ -8,6 +8,7 @@ featured: false
 draft: false
 tags: [over, under, goals]
 description: Jifunze aina za masoko ya Over/Under. Maana ya Over 2.5, 1.5, 3.5. Maana ya Under 4.5, 3.5, 2.5, 1.5
+canonicalURL: "https://maana-ya.com/posts/maana-ya-under-over-mikeka/"
 ---
 
 Katika kubashiri mpira wa miguu, kuelewa chaguzi mbalimbali za kubeti ni muhimu kwa kufanya maamuzi yaliyo na msingi na kuongeza nafasi zako za kushinda. Miongoni mwa chaguzi hizi ni bets za "Over" na "Under", ambazo zinategemea idadi jumla ya mabao yaliyofungwa katika mechi. Hapa, tutachunguza maana ya bets tofauti za "Over" na "Under" ambazo mara nyingi hukutana katika kubashiri mpira wa miguu.
