@@ -2,7 +2,7 @@
 author: Blackberry 255
 pubDatetime: 2024-12-12T11:10:00+03:00
 modDatetime: 2025-05-05T14:15:00+03:00
-title: Maana Winning Margin Kwenye Betting
+title: Maana ya Winning Margin Kwenye Betting
 slug: winning-margin-betting
 featured: true
 draft: false
