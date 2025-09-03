@@ -2,7 +2,7 @@
 author: Blackberry 255
 pubDatetime: 2024-10-11T12:00:00+03:00
 modDatetime: 2025-09-03T02:11:30+03:00
-title: Maana ya Highest Scoring Half / Half with Most Goals pamoja na Ligi za Kubetia
+title: Maana ya Highest Scoring Half au Half with Most Goals
 slug: highest-scoring-half
 featured: false
 draft: false
