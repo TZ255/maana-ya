@@ -19,10 +19,49 @@ const { frontmatter } = Astro.props;
   <Header activeNav="about" />
   <Breadcrumbs />
   <main id="main-content">
-    <section id="about" class="prose mb-28 max-w-3xl prose-img:border-0">
-      <h1 class="text-2xl tracking-wider sm:text-3xl">{frontmatter.title}</h1>
-      <slot />
+    <section id="about" class="content-card">
+      <div class="about-header">
+        <h1 class="about-title">{frontmatter.title}</h1>
+        {
+          frontmatter.description && (
+            <p class="about-lede">{frontmatter.description}</p>
+          )
+        }
+      </div>
+      <div class="prose prose-img-borderless">
+        <slot />
+      </div>
     </section>
   </main>
   <Footer />
 </Layout>
+
+<style>
+  #main-content {
+    max-width: 48rem;
+    width: 100%;
+    margin: 1.5rem auto 0;
+    padding: 0 1.5rem 2rem;
+  }
+  .about-header {
+    margin-bottom: 1rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid rgba(var(--color-border), 0.6);
+  }
+  .about-title {
+    font-size: 1.5rem;
+    letter-spacing: 0.05em;
+    margin: 0 0 0.5rem;
+    color: var(--bs-primary);
+    font-weight: 600;
+  }
+  .about-lede {
+    margin: 0;
+    color: var(--bs-secondary-color);
+  }
+  @media (min-width: 576px) {
+    .about-title {
+      font-size: 1.875rem;
+    }
+  }
+</style>

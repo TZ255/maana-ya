@@ -22,7 +22,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 <Layout>
   <Header />
   <main id="main-content">
-    <section id="hero">
+    <section id="hero" class="content-card">
       <h1>Maana-yA</h1>
       <a
         target="_blank"
@@ -38,7 +38,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
             d="M12 20.001h2C14 14.486 9.514 10 4 10v2c4.411 0 8 3.589 8 8.001z"
           ></path><circle cx="6" cy="18" r="2"></circle>
         </svg>
-        <span class="sr-only">RSS Feed</span>
+        <span class="visually-hidden">RSS Feed</span>
       </a>
 
       <p>
@@ -58,14 +58,14 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       }
     </section>
 
-    <Hr />
+    <div class="section-gap"></div>
 
     {
       featuredPosts.length > 0 && (
         <>
-          <section id="featured">
+          <section id="featured" class="content-card">
             <h2>Zilizoangaziwa</h2>
-            <ul>
+            <ul class="card-list">
               {featuredPosts.map(({ data, slug }) => (
                 <Card
                   href={`/posts/${slug}/`}
@@ -75,16 +75,16 @@ const socialCount = SOCIALS.filter(social => social.active).length;
               ))}
             </ul>
           </section>
-          {recentPosts.length > 0 && <Hr />}
+          {recentPosts.length > 0 && <div class="section-gap" />}
         </>
       )
     }
 
     {
       recentPosts.length > 0 && (
-        <section id="recent-posts">
+        <section id="recent-posts" class="content-card">
           <h2>Makala Mpya</h2>
-          <ul>
+          <ul class="card-list">
             {recentPosts.map(
               ({ data, slug }, index) =>
                 index < 4 && (
@@ -116,39 +116,82 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 </Layout>
 
 <style>
+  #main-content {
+    max-width: 48rem;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    margin-top: 1.5rem;
+  }
+  .section-gap {
+    margin: 1.5rem 0;
+  }
   /* ===== Hero Section ===== */
   #hero {
-    @apply pb-6 pt-8;
+    padding: 2rem;
   }
   #hero h1 {
-    @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl;
+    margin: 1rem 0;
+    display: inline-block;
+    font-size: 1.875rem;
+    font-weight: 700;
   }
   #hero .rss-link {
-    @apply mb-6;
+    margin-bottom: 1.5rem;
+    display: inline-block;
+    text-decoration: none;
   }
   #hero .rss-icon {
-    @apply mb-2 h-6 w-6 scale-110 fill-skin-accent sm:mb-3 sm:scale-125;
+    margin-bottom: 0.5rem;
+    width: 1.5rem;
+    height: 1.5rem;
+    color: var(--bs-primary);
+    transform: scale(1.1);
   }
   #hero p {
-    @apply my-2;
+    margin: 0.5rem 0;
   }
   .social-wrapper {
-    @apply mt-4 flex flex-col sm:flex-row sm:items-center;
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
   }
   .social-links {
-    @apply mb-1 mr-2 whitespace-nowrap sm:mb-0;
+    margin-bottom: 0.25rem;
+    margin-right: 0.5rem;
+    white-space: nowrap;
   }
 
   /* ===== Featured & Recent Posts Sections ===== */
   #featured,
   #recent-posts {
-    @apply pb-6 pt-12;
+    padding: 2rem;
   }
   #featured h2,
   #recent-posts h2 {
-    @apply text-2xl font-semibold tracking-wide;
+    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
   }
   .all-posts-btn-wrapper {
-    @apply my-8 text-center;
+    margin: 2rem 0;
+    text-align: center;
+  }
+  @media (min-width: 576px) {
+    #hero h1 {
+      margin: 2rem 0;
+      font-size: 3rem;
+    }
+    #hero .rss-icon {
+      margin-bottom: 0.75rem;
+      transform: scale(1.25);
+    }
+    .social-wrapper {
+      flex-direction: row;
+      align-items: center;
+    }
+    .social-links {
+      margin-bottom: 0;
+    }
   }
 </style>

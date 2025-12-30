@@ -3,7 +3,7 @@
 const currentUrlPath = Astro.url.pathname.replace(/\/+$/, "");
 
 // Get url array from path
-// eg: /tags/tailwindcss => ['tags', 'tailwindcss']
+// eg: /tags/bootstrap => ['tags', 'bootstrap']
 const breadcrumbList = currentUrlPath.split("/").slice(1);
 
 // if breadcrumb is Home > Posts > 1 <etc>
@@ -24,49 +24,44 @@ breadcrumbList[0] === "tags" &&
   );
 ---
 
-<nav class="breadcrumb" aria-label="breadcrumb">
-  <ul>
-    <li>
-      <a href="/">Home</a>
-      <span aria-hidden="true">&raquo;</span>
+<nav class="breadcrumb-container" aria-label="breadcrumb">
+  <ol class="breadcrumb mb-1 mt-4">
+    <li class="breadcrumb-item">
+      <a href="/" class="text-decoration-none text-muted">Home</a>
     </li>
     {
       breadcrumbList.map((breadcrumb, index) =>
         index + 1 === breadcrumbList.length ? (
-          <li>
-            <span
-              class={`${index > 0 ? "lowercase" : "capitalize"}`}
-              aria-current="page"
-            >
-              {/* make the last part lowercase in Home > Tags > some-tag */}
-              {decodeURIComponent(breadcrumb)}
-            </span>
+          <li
+            class={`breadcrumb-item active ${
+              index > 0 ? "text-lowercase" : "text-capitalize"
+            }`}
+            aria-current="page"
+          >
+            {/* make the last part lowercase in Home > Tags > some-tag */}
+            {decodeURIComponent(breadcrumb)}
           </li>
         ) : (
-          <li>
-            <a href={`/${breadcrumb}/`}>{breadcrumb}</a>
-            <span aria-hidden="true">&raquo;</span>
+          <li class="breadcrumb-item">
+            <a href={`/${breadcrumb}/`} class="text-decoration-none text-muted">
+              {breadcrumb}
+            </a>
           </li>
         )
       )
     }
-  </ul>
+  </ol>
 </nav>
 
 <style>
-  .breadcrumb {
-    @apply mx-auto mb-1 mt-8 w-full max-w-3xl px-4;
+  .breadcrumb-container {
+    max-width: 48rem;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 1.5rem;
   }
-  .breadcrumb ul li {
-    @apply inline;
-  }
-  .breadcrumb ul li a {
-    @apply capitalize opacity-70;
-  }
-  .breadcrumb ul li span {
-    @apply opacity-70;
-  }
-  .breadcrumb ul li:not(:last-child) a {
-    @apply hover:opacity-100;
+  .breadcrumb a:hover,
+  .breadcrumb a:focus-visible {
+    color: var(--bs-primary);
   }
 </style>
